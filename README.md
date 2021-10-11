@@ -1,10 +1,10 @@
-# Frontend Mentor - NOME DO PROJETO
+# Frontend Mentor - Stats preview card component
 
-This is a solution to the [NOME DO PROJETO](https://www.frontendmentor.io/challenges/NOME DO PROJETO). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [Stats preview card component](https://www.frontendmentor.io/challenges/stats-preview-card-component-8JqbgoU62). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
 ## Table of contents
 
-- [Frontend Mentor - Order summary card solution](NOME DO PROJETO)
+- [Frontend Mentor - Stats preview card component](Stats preview card component)
   - [Table of contents](#table-of-contents)
   - [Overview](#overview)
     - [Screenshot](#screenshot)
@@ -21,7 +21,7 @@ This is a solution to the [NOME DO PROJETO](https://www.frontendmentor.io/challe
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/EduardooPV/order-summary-fm)
+- Solution URL: [Add solution URL here](https://github.com/EduardooPV/stats_preview_card_fm)
 - Live Site URL: [Add live site URL here](Live site)
 
 ## My process
