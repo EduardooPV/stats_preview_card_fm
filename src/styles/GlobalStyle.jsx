@@ -59,16 +59,24 @@ table {
 
 /* ADICONANDO FONT FAMILY NO PROJETO */
 @font-face {
-  font-family: '';
-  src: url('/fonts/');
+  font-family: 'InterBold';
+  src: url('/fonts/Inter-Bold.ttf');
+  font-style: normal;
+  font-weight: 700;
+}
+
+@font-face {
+  font-family: 'InterRegular';
+  src: url('/fonts/Inter-Regular.ttf');
   font-style: normal;
   font-weight: 400;
 }
+
 @font-face {
-  font-family: '';
-  src: url('/fonts/');
+  font-family: 'LexendDecaRegular';
+  src: url('/fonts/LexendDeca-Regular.ttf');
   font-style: normal;
-  font-weight: 700;
+  font-weight: 400;
 }
 `
 
