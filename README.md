@@ -17,12 +17,12 @@ This is a solution to the [Stats preview card component](https://www.frontendmen
 
 ### Screenshot
 
-//
+![image](https://user-images.githubusercontent.com/69824782/137313982-e8fef95b-8351-4a0d-84d2-d4bfccd9c133.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/EduardooPV/stats_preview_card_fm)
-- Live Site URL: [Add live site URL here](Live site)
+- Solution URL: [Solution](https://github.com/EduardooPV/stats_preview_card_fm)
+- Live Site URL: [Live site](https://stats-preview-card-fm.netlify.app/)
 
 ## My process
 
